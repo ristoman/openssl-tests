@@ -1,4 +1,5 @@
-# Readme
-
-This is a test for encrypted readme file, so that nobody can read it even though the repo is public.
-This is a second line.
+U2FsdGVkX18fsHbCKb+uguJ8fgQCgwvbUWE5G2jV0V+Xg85xJYDvcQXnlNZrHQAi
+4lmXCqKAiB8HysGJrRt4ltaSQKGna0B5odwGqgEz7vMMrQFOPT29xiAIbCRZ+BQQ
+WB/gCTTSt5o1Iz+IywLcMiAbF/hrjDxGFQEKpsqJJsvPTPjDaAnJIZZdQ+NFHT72
+tq7raiqp69YwK8xGa17xzEBEBjgR3I0Cik9dRYlFz/cGpd56/UCYXKPas5ad9gRv
+6shePG4l8etUhaA7KTihNg==
